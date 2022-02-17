@@ -1,0 +1,11 @@
+/.vs
+/x64
+/Debug
+/Release
+
+*.db
+*.user
+*.opendb
+
+*.txt
+*.rar
